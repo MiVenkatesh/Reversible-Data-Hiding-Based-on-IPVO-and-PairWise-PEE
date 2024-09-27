@@ -1,0 +1,6 @@
+Image,Block Size,Payload Capacity,Embedding Efficiency,PSNR,EPER,Output
+Lake.tiff,2x2,512.0,1.0,52.36282156924951,0.59,Sectet data  is inserted into the image
+Lake.tiff,3x3,512.0,0.5864363362705377,71.89604498330304,0.531488037109375,Sectet data  is inserted into the image
+Lake.tiff,4x4,512.0,0.504089873624927,80.50526687684189,0.53,Sectet data  is inserted into the image
+Lake.tiff,5x5,512.0,0.5862644687173907,71.89938607123281,0.5291839599609375,Sectet data  is inserted into the image
+Average,Average,512.0,0.6691976696532138,69.1658798751568,0.5451679992675781,
