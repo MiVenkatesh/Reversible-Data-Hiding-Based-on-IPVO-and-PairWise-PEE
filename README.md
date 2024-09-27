@@ -58,7 +58,3 @@ This project implements Reversible Data Hiding using Adaptive IPVO and Two-Segme
 5. Submit a pull request to the main repository for review.
 
 Please ensure that your code is well-documented, follows best practices, and passes all tests before submitting a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
