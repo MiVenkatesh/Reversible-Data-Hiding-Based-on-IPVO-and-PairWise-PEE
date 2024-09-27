@@ -12,7 +12,7 @@ This project implements Reversible Data Hiding using Adaptive IPVO and Two-Segme
 1. Clone this repository:
 
    ```
-   git clone https://github.com/MiVenkatesh/
+   [git clone https://github.com/MiVenkatesh/](https://github.com/MiVenkatesh/Reversible-Data-Hiding-Based-on-IPVO-and-PairWise-PEE.git)
    ```
 
 2. Change to the `reversible_data_hiding` directory:
